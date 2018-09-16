@@ -22,12 +22,12 @@
 		<repository>
 			<id>walmart-releases</id>
 			<name>walmart-releases</name>
-			<url>http://ec2-54-211-22-25.compute-1.amazonaws.com:8081/nexus/content/repositories/walmart-releases/</url>
+			<url>http://54.174.117.50:8081/nexus/content/repositories/walmart-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>walmart-snapshots</id>
 			<name>walmart-snapshots</name>
-			<url>http://ec2-54-211-22-25.compute-1.amazonaws.com:8081/nexus/content/repositories/walmart-snapshots/</url>
+			<url>http://54.174.117.50:8081/nexus/content/repositories/walmart-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
